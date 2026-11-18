@@ -76,7 +76,24 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|79505000|79340000|204169b1-04f5-4aa9-95ed-73ae7b8b92e1|69197547-a6ae-43a6-be68-44f48912a7a2",
+          ""
+        ],
+        [
+          "hole_clearance|79505000|79340000|4aa206d0-4dc2-4b2c-a38e-c0f9dbd11fa6|69197547-a6ae-43a6-be68-44f48912a7a2",
+          ""
+        ],
+        [
+          "hole_clearance|79505000|85440000|3620d27e-3703-41db-853f-2a14eaac302c|ae34550b-d120-46de-9956-2637fc14af6d",
+          ""
+        ],
+        [
+          "hole_clearance|79505000|85440000|fbb621e0-8c22-4f68-919b-9dc8c496dac0|ae34550b-d120-46de-9956-2637fc14af6d",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -716,7 +733,7 @@
         "uuid": "13816723-d4e3-484a-9242-0952d6c1c8fd"
       }
     ],
-    "used_designators": "U1-5,C1-14,BT1,D1-5,#PWR1-50,#PWR55-58,J1-4,Q1-3,SW1-3,#FLG1-6,R1-15,R20-21,H1-4",
+    "used_designators": "U1-5,C1-14,BT1,D1-5,#PWR1-50,#PWR55-58,J1-5,Q1-3,SW1-3,#FLG1-6,R1-15,R20-21,H1-4",
     "variants": []
   },
   "sheets": [
